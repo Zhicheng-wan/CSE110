@@ -34,4 +34,4 @@ Things I am trying to accomplish...
 - [x] Sleep 8 hours a day
 - [ ] adopt a cat
 
-This is a link back to the top [^^^](https://github.com/Zhicheng-wan/CSE110/blob/main/index.md#about-me)
+This is a link back to the top [^^^]([https://github.com/Zhicheng-wan/CSE110/blob/main/index.md#about-me](https://zhicheng-wan.github.io/CSE110/#about-me))
