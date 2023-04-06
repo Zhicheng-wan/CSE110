@@ -1,3 +1,6 @@
 # CSE110
 Zhicheng's User Page
-Java
+
+Published URL:  https://zhicheng-wan.github.io/CSE110/
+
+My favoriate language is: Java
